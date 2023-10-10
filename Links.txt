@@ -1,3 +1,5 @@
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 http://jalammar.github.io/illustrated-transformer/
+
+https://www.kaggle.com/code/soumyaansh/english-to-hindi-neural-machine-translation
